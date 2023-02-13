@@ -1,3 +1,3 @@
 public class BClass {
-    private String val = "Commit 1 for f03";
+    private String val = "Commit 2 for f03";
 }
