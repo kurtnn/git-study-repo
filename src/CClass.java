@@ -1,3 +1,3 @@
 public class CClass {
-    private String val = "f2 c3";
+    private String val = "f1 c1";
 }
